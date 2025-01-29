@@ -1,0 +1,10 @@
+com\HotelService\userService\entities\Rating$RatingBuilder.class
+com\HotelService\userService\entities\Rating.class
+com\HotelService\userService\exception\GlobalExceptionHandler.class
+com\HotelService\userService\exception\NotFoundResource.class
+com\HotelService\userService\repo\UserRepository.class
+com\HotelService\userService\UserServiceApplication.class
+com\HotelService\userService\service\UserService.class
+com\HotelService\userService\service\impl\UserServiceImpl.class
+com\HotelService\userService\controller\UserController.class
+com\HotelService\userService\entities\User.class
